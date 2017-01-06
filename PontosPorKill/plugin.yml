@@ -1,0 +1,10 @@
+name: KamiCaixasMisteriosas
+authors: [guigarciazinho, kami]
+version: 1.0
+main: me.guigarciazinho.KamiCaixasMisteriosas.Main
+description: Jogador ganha pontos por cada eliminacao e pode troca-los por caixas, caixas habilitam premios misteriosos
+commands:
+  pontos:
+    description: Use para descobrir os outros comandos do plugin
+  caixas:
+    description: Use para descobrir os outros comandos do plugin
